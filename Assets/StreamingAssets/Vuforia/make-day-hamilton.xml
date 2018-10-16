@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="car" size="1.000000 0.750000" />
+    <ImageTarget name="fire-4" size="1.000000 0.750000" />
+    <ImageTarget name="phone-4" size="1.000000 0.750000" />
+    <ImageTarget name="fire-3" size="1.000000 0.750000" />
+    <ImageTarget name="insurance" size="1.000000 0.750000" />
+    <ImageTarget name="phone-3" size="1.000000 0.750000" />
+    <ImageTarget name="fire-2" size="1.000000 0.750000" />
+    <ImageTarget name="fire" size="1.000000 0.750000" />
+    <ImageTarget name="thief-2" size="1.000000 0.750000" />
+    <ImageTarget name="phone-2" size="1.000000 0.750000" />
+    <ImageTarget name="mew-mew" size="1.000000 0.750000" />
+    <ImageTarget name="astro-sloth" size="1.000000 0.750000" />
+    <ImageTarget name="drone" size="1.000000 0.750000" />
+    <ImageTarget name="thief" size="1.000000 0.750000" />
     <ImageTarget name="phone" size="1.000000 0.750000" />
     <ImageTarget name="unicorn" size="1.000000 0.750000" />
     <ImageTarget name="egg2" size="1.000000 1.436667" />
